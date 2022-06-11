@@ -2,6 +2,13 @@
     "files.associations": {
         "iostream": "cpp",
         "cmath": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "xlocnum": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp"
     }
 }
